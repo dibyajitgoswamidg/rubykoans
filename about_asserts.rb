@@ -13,7 +13,7 @@ class AboutAsserts < Neo::Koan
   # Enlightenment may be more easily achieved with appropriate
   # messages.
   def test_assert_with_message
-    assert true, "This is true"
+    assert true, "This is true" 
   end
 
   # To understand reality, we must compare our expectations against
